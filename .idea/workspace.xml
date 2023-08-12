@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e59cb9-fdd7-4135-b21e-93cf594b75e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_two/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter14/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter14/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter14/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter14/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter14/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter14/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter14/exampl4/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ReverseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_two/ShapesAsterisks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_two/ShapesAsterisks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms_In_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms_In_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_two/makingA_Difference/WorldPopulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_two/makingA_Difference/WorldPopulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,27 +42,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/joseph/IdeaProjects/algorithms_In_Java/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/joseph/IdeaProjects/algorithms_In_Java/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ShapesAsterisks">
-    <configuration name="DivisibleByThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_two.DivisibleByThree" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter14" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WorldPopulation">
+    <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter14.Function" />
       <module name="algorithms_In_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_two.*" />
+          <option name="PATTERN" value="chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_two.Print" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter14.ReverseString" />
       <module name="algorithms_In_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_two.*" />
+          <option name="PATTERN" value="chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,34 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapesAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_two.ShapesAsterisks" />
-      <module name="algorithms_In_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_two.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquaresCubes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_two.SquaresCubes" />
-      <module name="algorithms_In_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_two.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bmi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_two.makingA_Difference.bmi" />
+    <configuration name="WorldPopulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_two.makingA_Difference.WorldPopulation" />
       <module name="algorithms_In_Java" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +105,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseTest.can_i_getAn_input" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms_In_Java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReverseTest" />
+      <option name="METHOD_NAME" value="can_i_getAn_input" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseTest.creatingVariable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms_In_Java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReverseTest" />
+      <option name="METHOD_NAME" value="creatingVariable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShapesAsterisks" />
-        <item itemvalue="Application.Print" />
-        <item itemvalue="Application.SquaresCubes" />
-        <item itemvalue="Application.bmi" />
-        <item itemvalue="Application.DivisibleByThree" />
+        <item itemvalue="Application.WorldPopulation" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="JUnit.ReverseTest.creatingVariable" />
+        <item itemvalue="JUnit.ReverseTest.can_i_getAn_input" />
+        <item itemvalue="Application.Function" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +145,11 @@
       <updated>1691264546977</updated>
       <workItem from="1691264548234" duration="9298000" />
       <workItem from="1691317982681" duration="3331000" />
-      <workItem from="1691325166975" duration="13500000" />
+      <workItem from="1691325166975" duration="13894000" />
+      <workItem from="1691671065448" duration="9455000" />
+      <workItem from="1691734494395" duration="8395000" />
+      <workItem from="1691842042162" duration="6207000" />
+      <workItem from="1691869614124" duration="925000" />
     </task>
     <servers />
   </component>
