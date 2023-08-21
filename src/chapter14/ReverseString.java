@@ -9,9 +9,7 @@ import java.util.stream.Stream;
 public class ReverseString {
 
 
-
     public static void main(String[] args) {
-
 
 
         Scanner input = new Scanner(System.in);
@@ -24,26 +22,29 @@ public class ReverseString {
         Pattern pattern = Pattern.compile("//s");
 
 
-
-        for (int index = resultInput.length -1; index >=0; index--) {
+        for (int index = resultInput.length - 1; index >= 0; index--) {
 
             System.out.print(resultInput[index]);
 
         }
-
-
-
-        
-        
     }
+}
+
+
+
 
 
 //    public String findMostString(String input){
 //        var map = Stream.of(input.chars())
-//                .collect(Collectors.toMap(x->x, x->, (x,y)->));
+//                .collect(Collectors.toMap(x-> x, x-> 1, (x,y)->x+y));
+//        map.get()
+//    }
+
+
+//    public String findMostFreqCharacter3(String input) {
+//
+//
 //    }
 
 
 
-
-}
