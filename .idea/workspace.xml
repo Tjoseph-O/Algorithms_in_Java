@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e59cb9-fdd7-4135-b21e-93cf594b75e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SecondsToYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/exampl4/MostString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/ExampleRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/RepeatFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/WritingToAFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goinghome/EvenAndOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goinghome/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goinghome/Name1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goinghome/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goinghome/Number2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goinghome/Number3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex/RegexPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/regex/RegexPracticeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/ProductFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/ProductReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/ReaderProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testFile/ReaderProductTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter14/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter14/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/Example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/Example8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +61,7 @@
       <recent name="chapter14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WritingToAFile">
+  <component name="RunManager" selected="Application.EvenAndOdd">
     <configuration name="EvenAndOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="goinghome.EvenAndOdd" />
       <module name="algorithms_In_Java" />
@@ -103,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.Example2" />
+    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="files.Example10" />
       <module name="algorithms_In_Java" />
       <extension name="coverage">
         <pattern>
@@ -116,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="goinghome.Number3" />
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="files.Example2" />
       <module name="algorithms_In_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="goinghome.*" />
+          <option name="PATTERN" value="files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example10" />
         <item itemvalue="Application.WritingToAFile" />
         <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example1" />
         <item itemvalue="Application.EvenAndOdd" />
-        <item itemvalue="Application.Number3" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +158,11 @@
       <workItem from="1692363049538" duration="6518000" />
       <workItem from="1692388271659" duration="138000" />
       <workItem from="1692607001083" duration="7949000" />
+      <workItem from="1692632120364" duration="1279000" />
+      <workItem from="1692644714918" duration="379000" />
+      <workItem from="1692645123848" duration="45000" />
+      <workItem from="1692778847843" duration="6376000" />
+      <workItem from="1692787287222" duration="1375000" />
     </task>
     <servers />
   </component>
