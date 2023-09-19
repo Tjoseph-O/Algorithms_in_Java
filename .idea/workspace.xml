@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e59cb9-fdd7-4135-b21e-93cf594b75e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter16/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/ConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/lambdas/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/lambdas/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/lambdas/teerminal/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/streams/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/streams/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/streams/PersonMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/ApiCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/FirstOrderIsogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/IsogramTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms_In_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms_In_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/ReaderProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/ReaderProduct.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,14 +44,20 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2TZxk4PFgOkusLU9V8jgQbgynLn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
@@ -41,12 +66,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/joseph/Desktop/newJackson&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/joseph/IdeaProjects/algorithms_In_Java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -56,13 +85,13 @@
       <recent name="chapter14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EvenAndOdd">
-    <configuration name="EvenAndOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="goinghome.EvenAndOdd" />
+  <component name="RunManager" selected="Application.chapter17.lambdas.teerminal.Example1">
+    <configuration name="ApiCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.ApiCall" />
       <module name="algorithms_In_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="goinghome.*" />
+          <option name="PATTERN" value="task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,25 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.Example1" />
+    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.functionalInterface.ConsumerExample" />
       <module name="algorithms_In_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.Example10" />
-      <module name="algorithms_In_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="chapter17.functionalInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +113,11 @@
       </method>
     </configuration>
     <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.Example2" />
+      <option name="MAIN_CLASS_NAME" value="chapter17.lambdas.Example2" />
       <module name="algorithms_In_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="chapter17.lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WritingToAFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.WritingToAFile" />
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.streams.Example5" />
       <module name="algorithms_In_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="chapter17.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter17.lambdas.teerminal.Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.lambdas.teerminal.Example1" />
+      <module name="algorithms_In_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter17.lambdas.teerminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example10" />
-        <item itemvalue="Application.WritingToAFile" />
+        <item itemvalue="Application.chapter17.lambdas.teerminal.Example1" />
+        <item itemvalue="Application.ApiCall" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.ConsumerExample" />
         <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.EvenAndOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -159,10 +188,23 @@
       <workItem from="1692778847843" duration="6376000" />
       <workItem from="1692787287222" duration="2844000" />
       <workItem from="1692808844217" duration="102000" />
+      <workItem from="1694161379907" duration="10323000" />
+      <workItem from="1694422550260" duration="833000" />
+      <workItem from="1694427859631" duration="6392000" />
+      <workItem from="1694457480438" duration="243000" />
+      <workItem from="1694771125043" duration="2469000" />
+      <workItem from="1694797453596" duration="326000" />
+      <workItem from="1695026416127" duration="4775000" />
+      <workItem from="1695033571428" duration="4994000" />
+      <workItem from="1695057089096" duration="600000" />
+      <workItem from="1695059734021" duration="992000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
